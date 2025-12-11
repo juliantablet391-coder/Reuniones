@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ReuniónAI",
+  "description": "Herramienta avanzada de transcripción de reuniones con identificación de hablantes, género y marcas de tiempo utilizando Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
